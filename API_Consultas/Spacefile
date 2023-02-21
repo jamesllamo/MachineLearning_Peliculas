@@ -1,0 +1,9 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+icon: /icon.JPG
+app_name: "Peliculas_api_James"
+micros:
+  - name: API
+    src: .
+    engine: python3.9
+    primary: true
