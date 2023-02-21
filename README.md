@@ -1,6 +1,6 @@
-<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
-
 # <h1 align=center> **DATA SCIENCE** </h1>
+
+# <h2 align=center> **ETL, EDA, Machine Learning y creación de API sobre Películas** </h2>
 
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 
