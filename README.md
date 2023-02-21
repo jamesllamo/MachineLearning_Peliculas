@@ -112,6 +112,10 @@ El Deployment fue realizado en [Deta](https://www.deta.sh/?ref=fastapi) debido a
 
 Carpeta `.space` Se crea por defecto durante la instalación
 
+Datos adicionales:
+
+Nombre de la APP: `API_DS_PELICULAS`
+Usuario: `jamesllamo`
 
 <br/>
 
