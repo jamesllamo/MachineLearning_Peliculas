@@ -1,5 +1,7 @@
 import pandas as pd                                             # Se importa Pandas
 from fastapi import FastAPI                                     # Se importa FastAPI
+from joblib import dump                             # Importamos la libería joblib
+from joblib import load
 from sklearn.neighbors import NearestNeighbors                  # Se importa NearestNeighbors de sklearn
 from sklearn.preprocessing import MinMaxScaler                  # Se importa MinMaxScaler de sklearn
 import numpy as np                                              # Se importa numpy
